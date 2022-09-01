@@ -1,7 +1,7 @@
 
 Responsive Inline Block built with Bootstrap 5. Wrapping an item without going beyond its parent.
 
-Check out [Bootstrap Number Inputs Documentation](https://mdbootstrap.com/docs/standard/extended/number-inputs/) for detailed instructions & even more examples.
+Check out [Bootstrap Number Inputs Documentation](https://mdbootstrap.com/docs/standard/extended/inline-block/) for detailed instructions & even more examples.
 
 ## How it works
 
