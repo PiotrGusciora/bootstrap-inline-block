@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-inline-block",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Responsive Inline Block built with Bootstrap 5. Wrapping an item without going beyond its parent.",
   "main": "how-it-works.html",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PiotrGusciora/bootstrap-inline-block.git"
+    "url": "git+https://github.com/mdbootstrap/bootstrap-inline-block.git"
   },
   "keywords": [
     "bootstrap",
@@ -22,7 +22,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PiotrGusciora/bootstrap-inline-block/issues"
+    "url": "https://github.com/mdbootstrap/bootstrap-inline-block/issues"
   },
   "homepage": "https://mdbootstrap.com/docs/standard/extended/inline-block/"
 }
