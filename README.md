@@ -110,5 +110,4 @@ ___
 <li><a href="https://mdbootstrap.com/docs/standard/extended/vertical-navbar/">Bootstrap Vertical Navbar</a></li> 
 <li><a href="https://mdbootstrap.com/docs/standard/extended/flash-messages">Bootstrap Flash Messages</a></li> 
 <li><a href="https://mdbootstrap.com/docs/standard/extended/number-inputs/">Bootstrap Number Inputs</a></li> 
-
 </ul>
